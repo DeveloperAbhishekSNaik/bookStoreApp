@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Discovery to the land of Ancient wisdom",
+    "price": 0,
+    "Category": "Free",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793789.jpg?t=st=1715699080~exp=1715702680~hmac=a258e7c026cf251dda3da737a21a176cd240fb7921e555c96ce61d691cc58a35&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Drama Book",
+    "title": "Interesting Story of two kingdoms",
+    "price": 0,
+    "Category": "Free",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793789.jpg?t=st=1715699080~exp=1715702680~hmac=a258e7c026cf251dda3da737a21a176cd240fb7921e555c96ce61d691cc58a35&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Sports Book",
+    "title": "Information about Popular sports in the world",
+    "price": 500,
+    "Category": "Sports",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793789.jpg?t=st=1715699080~exp=1715702680~hmac=a258e7c026cf251dda3da737a21a176cd240fb7921e555c96ce61d691cc58a35&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Science Book",
+    "title": "The study of different matters of nature",
+    "price": 1000,
+    "Category": "Science",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793789.jpg?t=st=1715699080~exp=1715702680~hmac=a258e7c026cf251dda3da737a21a176cd240fb7921e555c96ce61d691cc58a35&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Celebrity Book",
+    "title": "Lesson on Acting and how to handle Fame",
+    "price": 1200,
+    "Category": "Celebrity",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793789.jpg?t=st=1715699080~exp=1715702680~hmac=a258e7c026cf251dda3da737a21a176cd240fb7921e555c96ce61d691cc58a35&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Nature Book",
+    "title": "Discovery to the Natures wonders",
+    "price": 900,
+    "Category": "Nature",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793789.jpg?t=st=1715699080~exp=1715702680~hmac=a258e7c026cf251dda3da737a21a176cd240fb7921e555c96ce61d691cc58a35&w=740"
+  },
+  {
+    "id": 7,
+    "name": "physics Book",
+    "title": "Discovery of the Secrets of Space",
+    "price": 4000,
+    "Category": "Physics",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793789.jpg?t=st=1715699080~exp=1715702680~hmac=a258e7c026cf251dda3da737a21a176cd240fb7921e555c96ce61d691cc58a35&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Ocean Book",
+    "title": "Discovery of the Deep sea and types of Ocean",
+    "price": 1600,
+    "Category": "Ocean",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793789.jpg?t=st=1715699080~exp=1715702680~hmac=a258e7c026cf251dda3da737a21a176cd240fb7921e555c96ce61d691cc58a35&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Food Book",
+    "title": "Types of food around the world and their Benfits",
+    "price": 600,
+    "Category": "Food",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793789.jpg?t=st=1715699080~exp=1715702680~hmac=a258e7c026cf251dda3da737a21a176cd240fb7921e555c96ce61d691cc58a35&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Music Book",
+    "title": "Discovery of the music and its forms",
+    "price": 2300,
+    "Category": "Music",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793789.jpg?t=st=1715699080~exp=1715702680~hmac=a258e7c026cf251dda3da737a21a176cd240fb7921e555c96ce61d691cc58a35&w=740"
+  },
+  {
+    "id": 11,
+    "name": "Maths Book",
+    "title": "Discovery of the Different maths and its uses",
+    "price": 5000,
+    "Category": "Maths",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793789.jpg?t=st=1715699080~exp=1715702680~hmac=a258e7c026cf251dda3da737a21a176cd240fb7921e555c96ce61d691cc58a35&w=740"
+  },
+  {
+    "id": 12,
+    "name": "Chemistry Book",
+    "title": "Different types of chemical reactions and its byproduts ",
+    "price": 1800,
+    "Category": "chemistry",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793789.jpg?t=st=1715699080~exp=1715702680~hmac=a258e7c026cf251dda3da737a21a176cd240fb7921e555c96ce61d691cc58a35&w=740"
+  }
+]
